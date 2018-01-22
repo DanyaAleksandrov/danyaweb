@@ -1,0 +1,153 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.project{
+	width: 100%;
+	height: 1715px;
+}
+header{
+	width: 100%;
+	height: 180px;
+	background: #dcdcdc;
+	padding-top: 65px;
+}
+.left_header{
+	margin-left: 20%
+}
+.right_header{
+	display: inline-block;
+	vertical-align: top;
+	font-size: 34px;
+	color: #777777;
+	margin-left: 25%;
+}
+.second_number{
+	margin-top: 1%;
+}
+.squere{
+	background: #777777;
+	width: 100px;
+	height: 100px;
+	;/*210px*/
+	display: inline-block;
+}
+.company{
+	vertical-align: top;
+	width: 200px;
+	height: 100px;
+	margin-left: 1%;
+	display: inline-block;
+	color: #777777;
+}
+.name{
+	font-size: 24px;
+}
+.about_company{
+	font-size: 16px;
+}
+.menu{
+	width: 100%;
+	height: 80px;
+	background: #777777;
+}
+.slider{
+	width: 100%;
+	height: 400px;
+	background-image: url(slider.jpg);
+	background-repeat: no-repeat;
+
+	
+}
+.content{
+	width: 100%;
+	height: 785px;
+	background: #f9f9f9;
+	padding-top: 2%;
+	font-size: 32px;
+	color: #ffffff
+
+}
+.info{
+	font-size: 16px;
+	margin-top: 2%;
+	margin-left: 1%;
+	text-align: left;
+}
+footer{
+	width: 100%;
+	height: 220px;
+	background: #777777;
+}
+
+.delivery{
+	width: 50%;
+	margin-left: 25%;
+	margin-right: 25%;
+	text-align: center;
+	height: 560px;
+	background: #777777;
+}
+a{
+	
+	color: #dcdcdc;
+}
+.menu a{
+	text-decoration: none;
+	color: #ffffff;
+}
+.menu a div{
+	margin-top: 26px;
+	display: inline-block;
+	margin-left: 20px;
+	padding-right: 20px;
+	border-right: solid 1px;
+	font-size: 24px;
+}
+.menu .main{
+	margin-left: 310px;
+}
+.menu .contacts{
+	border-right: none;
+}
+.foot{
+	padding-top: 3%;
+	color: #dcdcdc;
+	font-size: 16px;
+
+}
+.social{
+	display: inline-block;
+	margin-left: 20%;
+}
+.list{
+	display: inline-block;
+	margin-left: 5%;
+	vertical-align: top;
+
+}
+.list ul{
+	list-style: none;
+}
+.list ul li{
+	padding: 0px;
+	margin: 0px;
+}
+.list ul a{
+	padding: 5px;
+	display: block;
+}
+ul{
+	margin-top: 0px;
+}
+.develop{
+	display: inline-block;
+	margin-left: 20%;
+	
+
+}
+
+/*785
+560
+400
+1400*/
